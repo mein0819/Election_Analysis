@@ -49,9 +49,10 @@ a CSV file with election data. Using a loop and if statements it creates lists a
 to determine vote percentages and a conditional statement to determine the outcome, or the winner. With a couple of 
 modifications, this code can be used for any election of any local, state or national election. First, changing the 
 CSV file from this line of code will give the correct data to be read:
-
+![csvcode](https://github.com/mein0819/Election_Analysis/blob/main/readMeImages/csvFile.png)
 Next, change the the list and dictionary names, and any coresponding variables associated with them, to match where the 
 data was collected from, such as a precinct, district, or state. 
-
+![list/dictCode](https://github.com/mein0819/Election_Analysis/blob/main/readMeImages/countyDict.png)
 Finally, check that the CSV columns have the proper index when searching for the candidate name and location of the vote.
+![indexCode](https://github.com/mein0819/Election_Analysis/blob/main/readMeImages/index.png)
 It shouldn't be assumed that every will be organized in the same way
