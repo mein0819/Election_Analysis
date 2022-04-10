@@ -56,6 +56,8 @@ data was collected from, such as a precinct, district, or state.
 ![list/dictCode](https://github.com/mein0819/Election_Analysis/blob/main/readMeImages/countyDict.png)
 
 Finally, check that the CSV columns have the proper index when searching for the candidate name and location of the vote.
+
 ![indexCode](https://github.com/mein0819/Election_Analysis/blob/main/readMeImages/index.png)
 
-It shouldn't be assumed that every will be organized in the same way
+It shouldn't be assumed that every CSV file will be organized in the same way. It's good to check and adjust the index
+number to ensure the proper data is being collected into the list. 
